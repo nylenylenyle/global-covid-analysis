@@ -103,6 +103,12 @@ Vaccination rollout speed and completeness are strongly associated with improved
 
 ---
 
+## Project Goal
+
+This project demonstrates an end-to-end SQL-based data analysis workflow applied to real-world healthcare data. The goal is to generate structured, interpretable insights that support understanding of global health patterns and inform data-driven decision-making.
+
+---
+
 ## Key Analyses
 
 The project includes the following analytical components:
@@ -198,8 +204,4 @@ Additional categorical groupings:
 3. Ensure CSV files are accessible to PostgreSQL  
 4. Connect a BI tool (e.g., Tableau) to the generated views  
 
----
 
-## Project Goal
-
-This project demonstrates an end-to-end SQL-based data analysis workflow applied to real-world healthcare data. The goal is to generate structured, interpretable insights that support understanding of global health patterns and inform data-driven decision-making.
