@@ -1,6 +1,8 @@
 # Global COVID-19 Burden and Health System Readiness Analysis
 
-## Overview
+A SQL-based analysis of global COVID-19 trends, examining disease burden, testing, vaccination, and health system readiness across countries.
+
+## Executive Summary
 
 This project analyzes global COVID-19 data to evaluate how disease burden, testing coverage, and vaccination rollout vary across countries and over time. The objective is to transform raw public health data into actionable insights that reflect differences in pandemic impact and healthcare system readiness.
 
